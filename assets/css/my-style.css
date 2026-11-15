@@ -1,0 +1,23 @@
+.main-logo
+	{
+		margin: -25px auto 0;
+		padding: 0;
+		max-height: 40px;
+		/*background-color: red;*/
+	}
+
+.main-logo img
+	{
+		max-height: 70px;
+	}
+
+.cake-pad
+	{
+		padding-top: 30px;
+	}
+
+.Thrissur-map
+	{
+		margin: 0;
+		padding: 0;
+	}
